@@ -1,0 +1,30 @@
+[
+  {
+        "id": 0,
+        "tipo":{"Condicion_climatica": ["Soleado", "Soleado", "Soleado", "Soleado", "Soleado", "Soleado", "Soleado", "Nublado", "Nublado", "Lluvioso"],
+                "Temperatura": ["21°", "21°", "21°", "20°", "20°", "20°", "20°", "20°", "19°", "19°"]},
+        "hour": ["8.00 hs", "8.10 hs", "8.20 hs", "8.30 hs", "8.40 hs", "8.50 hs", "9.00 hs", "9.10 hs", "9.20 hs", "9.30 hs"],
+        "city": "Buenos Aires"
+    },
+  {
+        "id": 1,
+        "tipo": {"Condicion_climatica": ["Nublado", "Nublado", "Nublado", "Soleado", "Soleado", "Soleado", "Soleado", "Nublado", "Nublado", "Lluvioso"],
+                "Temperatura": ["20°", "20°", "20°", "21°", "21°", "21°", "21°", "20°", "19°", "19°"]},
+        "hour": ["8.00 hs", "8.10 hs", "8.20 hs", "8.30 hs", "8.40 hs", "8.50 hs", "9.00 hs", "9.10 hs", "9.20 hs", "9.30 hs"],
+        "city": "Santiago"
+    },
+  {
+        "id": 2,
+        "tipo":{"Condicion_climatica": ["Soleado", "Soleado", "Soleado", "Soleado", "Soleado", "Soleado", "Soleado", "Soleado", "Soleado", "Soleado"],
+              "Temperatura": ["29°", "29°", "29°", "30°", "30°", "30°", "31°", "31°", "31°", "32°"]},
+        "hour": ["8.00 hs", "8.10 hs", "8.20 hs", "8.30 hs", "8.40 hs", "8.50 hs", "9.00 hs", "9.10 hs", "9.20 hs", "9.30 hs"],
+        "city": "Medellín"
+    },
+  {
+        "id": 3,
+        "tipo":{"Condicion_climatica": ["Lluvioso", "Lluvioso", "Nublado", "Nublado", "Nublado", "Nublado", "Nublado", "Nublado", "Nublado", "Nublado"],
+              "Temperatura": ["-4°", "-4°", "-4°", "-4°", "-4°", "-3°", "-3°", "-3°", "-2°", "-2°"]},
+        "hour": ["8.00 hs", "8.10 hs", "8.20 hs", "8.30 hs", "8.40 hs", "8.50 hs", "9.00 hs", "9.10 hs", "9.20 hs", "9.30 hs"],
+        "city": "Moscu"
+    }
+]
